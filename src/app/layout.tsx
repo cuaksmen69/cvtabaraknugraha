@@ -41,6 +41,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
+  other: {
+    "facebook-domain-verification": "ezpzti43zvdhydemtgjtgcbx2t1hw7",
+  },
 };
 
 export default function RootLayout({
